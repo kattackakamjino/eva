@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eva's Story</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #333;
+        }
+
+        header {
+            background-color: #ff7eb9;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .story {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffe0f0;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: left;
+        }
+
+        footer {
+            background-color: #ff7eb9;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Eva's Story</h1>
+    </header>
+
+    <section>
+        <div class="story">
+            <h2>About Me</h2>
+            <p>Welcome to my personal webpage! My name is Eva and I'm passionate about storytelling. From a young age, I've always been captivated by the power of narratives to inspire, educate, and connect people.</p>
+            <p>As a modern storyteller, I strive to blend creativity with technology to craft compelling narratives that resonate with audiences across different mediums.</p>
+            <p>Join me on a journey through stories that explore the depths of human experience, imagination, and emotion.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Connect with me on social media:</p>
+        <a href="#">Twitter</a> | <a href="#">Instagram</a> | <a href="#">Facebook</a>
+    </footer>
+</body>
+</html>
+
